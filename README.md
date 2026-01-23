@@ -1,25 +1,11 @@
-# Art-Udem
+## IFT 6256 - Assignment 1: Generative Art Inspired by Public Art at UdeM
+### *Twisted* by Jessey Thach
+
+<br>
 
 ## Getting Started
+### Option 1: Locally
+- Open `index.html` in your web browser.
 
-Open `index.html` in your web browser and start editing `sketch.js`.
-
-## Running Locally
-
-For projects with media files, use a local server:
-
-```bash
-# Using Python
-python -m http.server 8000
-
-# Using Node.js
-npx http-server
-
-# Using VS Code Live Server extension
-# Right-click index.html -> "Open with Live Server"
-```
-
-## Resources
-
-- [p5.js 2.0](https://beta.p5js.org/)
-- [p5.js Reference](https://p5js.org/reference/)
+### Option 2: Using VS Code Live Server extension
+- Right-click `index.html` and Open with Live Server.
